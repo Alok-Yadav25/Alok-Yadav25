@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Calorie burn prediction <br>🤝 I’m looking for help with learning javascript , css , html<br>🌱 I’m currently learning machine learning <br>
+🔭 I’m currently working on Machine learning projects <br>  <br>🌱 I’m currently learning machine learning  <br>
 
 
 ## 🌐 Socials:
