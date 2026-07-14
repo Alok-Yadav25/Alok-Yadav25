@@ -1,140 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey%20There!%20I'm%20Alok%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/neural-blueprint-header.png" alt="Alok Yadav — AI/ML engineer building intelligent systems from research to production" width="100%" />
 
-<a href="https://linkedin.com/in/AlokYadav2500">
-  <img src="https://readme-typing-svg.herokuapp.com/api?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Building+AI%2FML+products+end-to-end;CodeLens+%7C+Suraksha+Setu+%7C+Stock+LSTM;B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal;Turning+data+into+deployed+solutions" alt="Typing SVG" />
+<br />
+
+<a href="https://atlasia-explorer.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+AI%2FML+products+from+model+to+deployment;Currently+shipping+Atlasia+%E2%80%94+place+intelligence+for+curious+travelers;Code+intelligence+%C2%B7+Mobile+security+%C2%B7+Predictive+systems" alt="Animated introduction" />
+</a>
+
+<br />
+
+<a href="https://atlasia-explorer.vercel.app"><img src="https://img.shields.io/badge/Explore_Atlasia-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Atlasia" /></a>
+<a href="https://linkedin.com/in/AlokYadav2500"><img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="mailto:ay252003@gmail.com"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+<a href="https://github.com/Alok-Yadav25"><img src="https://img.shields.io/badge/GitHub-172554?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" /></a>
+
+</div>
+
+## About
+
+I build end-to-end **machine learning and LLM-powered products**: from data and modeling to APIs, interfaces, deployment, and the reliability work that makes a system useful outside a notebook.
+
+- **Focus:** computer vision, NLP, predictive modeling, RAG pipelines, and MLOps
+- **Working with:** PyTorch, FastAPI, scikit-learn, Next.js, AI SDK, Groq, and Supabase
+- **Learning deeper:** LLM fine-tuning, evaluation, and production AI systems
+- **Open to:** AI/ML engineering opportunities and ambitious technical collaborations
+
+## Recent flagship build
+
+<div align="center">
+
+<a href="https://atlasia-explorer.vercel.app">
+  <img src="./assets/atlasia-preview.png" alt="Atlasia city comparison experience" width="100%" />
 </a>
 
 </div>
 
-<br>
+### [Atlasia](https://github.com/Alok-Yadav25/Atlasia) — place intelligence, connected
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+Atlasia is a weather-reactive place intelligence and trip-planning platform. Search any place and move through its story, weather, food, people, transport, maps, stays, events, comparisons, photo atlas, and an in-context AI travel companion in one connected experience.
 
-## 🚀 About Me
+`Next.js` · `TypeScript` · `AI SDK` · `Groq` · `Supabase` · `OpenStreetMap` · `Wikimedia`
 
-<img align="right" alt="coding gif" width="340" src="https://raw.githubusercontent.com/thegeekyasian/thegeekyasian/master/img/main.gif">
+[**Live experience**](https://atlasia-explorer.vercel.app) · [**Source code**](https://github.com/Alok-Yadav25/Atlasia)
 
-- 🔭 Currently building end-to-end **Machine Learning & LLM-powered** applications
-- 🌱 Deep-diving into **Deep Learning, RAG pipelines & LLM fine-tuning**
-- 🧠 Core focus areas: **Computer Vision · NLP · Predictive Modeling · MLOps**
-- 🛠️ Recent builds:
-  - 🤖 **CodeLens** — AI code reviewer powered by CodeBERT + LLaMA 3.1 (Groq API)
-  - 🛡️ **Suraksha Setu** — Fake banking APK detection using Androguard + LightGBM
-  - 📈 **Stock Price Predictor** — LSTM-based forecasting with live market data
-- 💬 Ask me about **PyTorch, FastAPI, LLMs, RAG, or Competitive Programming**
-- 📫 Reach me at **ay252003@gmail.com**
-- ⚡ Fun fact: I'd rather debug a 3AM deployment than skip building the project
+## Systems I've shipped
 
-<br clear="both">
+| Project | What it does | Core stack |
+| :--- | :--- | :--- |
+| **[CodeLens](https://github.com/Alok-Yadav25/Codelens)** | Reviews code with CodeBERT and LLaMA 3.1, then returns contextual improvement suggestions through a focused developer workflow. | `Python` `PyTorch` `FastAPI` `Groq` |
+| **[Suraksha Setu](https://github.com/Alok-Yadav25/Fake-bank-apk-detection)** | Detects suspicious banking APKs using static analysis, permission patterns, feature engineering, and LightGBM classification. | `Python` `Androguard` `LightGBM` `scikit-learn` |
+| **[Stock Price Predictor](https://github.com/Alok-Yadav25/Stock-prediction-using-LSTM)** | Forecasts market movement with an LSTM pipeline trained on historical and live market data. | `Python` `PyTorch` `LSTM` `Pandas` |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🌐 Connect With Me
+## Technology I work with
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlokYadav2500)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay252003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-Yadav25)
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,ts,postgres,supabase,docker,git,aws,vercel&perline=12" alt="Python, PyTorch, scikit-learn, FastAPI, Next.js, TypeScript, Postgres, Supabase, Docker, Git, AWS, and Vercel" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br />
 
-## 💻 Tech Arsenal
+```text
+data / text / code  ->  model  ->  API  ->  product  ->  measurable impact
+```
+
+## GitHub signal
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alok-Yadav25&theme=tokyonight" alt="Alok's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alok-Yadav25&theme=tokyonight" alt="Alok's repositories by language" />
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+<br />
 
-### Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Yadav25&bg_color=07111F&color=94A3B8&line=22D3EE&point=A78BFA&area=true&area_color=0E7490&hide_border=true" alt="Alok's GitHub contribution activity graph" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Analytics
+## Contribution flow
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alok-Yadav25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Yadav25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alok-Yadav25&theme=tokyonight&hide_border=true&background=0D1117"/>
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Yadav25&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
+<sub>The animation refreshes automatically every day.</sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🏆 GitHub Trophies
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Alok-Yadav25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+**Building useful intelligence, one shipped system at a time.**
+
+<a href="mailto:ay252003@gmail.com">Let's build something intelligent.</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Alok-Yadav25&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub><i>⚙️ Powered by a GitHub Action — set up the <a href="https://github.com/Platane/snk">snk workflow</a> in your profile repo to keep this animating automatically.</i></sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<div align="center">
-
-### 👀 Profile Visitors
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Alok-Yadav25&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<br>
-
-**"Building one model, one deploy, one debug session at a time." 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
-
