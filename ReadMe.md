@@ -1,110 +1,82 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/hero-mobile.svg" />
+    <img src="./assets/profile/hero.svg" width="100%" alt="Alok Yadav — Intelligence, engineered. AI and ML systems, full-stack products, and thoughtful interfaces. Open to opportunities." />
+  </picture>
+</p>
 
-<img src="./assets/neural-blueprint-header.png" alt="Alok Yadav — AI/ML engineer building intelligent systems from research to production" width="100%" />
-
-<br />
-
-<a href="https://atlasia-explorer.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+AI%2FML+products+from+model+to+deployment;Currently+shipping+Atlasia+%E2%80%94+place+intelligence+for+curious+travelers;Code+intelligence+%C2%B7+Mobile+security+%C2%B7+Predictive+systems" alt="Animated introduction" />
-</a>
-
-<br />
-
-<a href="https://atlasia-explorer.vercel.app"><img src="https://img.shields.io/badge/Explore_Atlasia-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Atlasia" /></a>
-<a href="https://linkedin.com/in/AlokYadav2500"><img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="mailto:ay252003@gmail.com"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
-<a href="https://github.com/Alok-Yadav25"><img src="https://img.shields.io/badge/GitHub-172554?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" /></a>
-
-</div>
-
-## About
-
-I build end-to-end **machine learning and LLM-powered products**: from data and modeling to APIs, interfaces, deployment, and the reliability work that makes a system useful outside a notebook.
-
-- **Focus:** computer vision, NLP, predictive modeling, RAG pipelines, and MLOps
-- **Working with:** PyTorch, FastAPI, scikit-learn, Next.js, AI SDK, Groq, and Supabase
-- **Learning deeper:** LLM fine-tuning, evaluation, and production AI systems
-- **Open to:** AI/ML engineering opportunities and ambitious technical collaborations
-
-## Recent flagship build
-
-<div align="center">
-
-<a href="https://atlasia-explorer.vercel.app">
-  <img src="./assets/atlasia-preview.png" alt="Atlasia city comparison experience" width="100%" />
-</a>
-
-</div>
-
-### [Atlasia](https://github.com/Alok-Yadav25/Atlasia) — place intelligence, connected
-
-Atlasia is a weather-reactive place intelligence and trip-planning platform. Search any place and move through its story, weather, food, people, transport, maps, stays, events, comparisons, photo atlas, and an in-context AI travel companion in one connected experience.
-
-`Next.js` · `TypeScript` · `AI SDK` · `Groq` · `Supabase` · `OpenStreetMap` · `Wikimedia`
-
-[**Live experience**](https://atlasia-explorer.vercel.app) · [**Source code**](https://github.com/Alok-Yadav25/Atlasia)
-
-## Systems I've shipped
-
-| Project | What it does | Core stack |
-| :--- | :--- | :--- |
-| **[CodeLens](https://github.com/Alok-Yadav25/Codelens)** | Reviews code with CodeBERT and LLaMA 3.1, then returns contextual improvement suggestions through a focused developer workflow. | `Python` `PyTorch` `FastAPI` `Groq` |
-| **[Suraksha Setu](https://github.com/Alok-Yadav25/Fake-bank-apk-detection)** | Detects suspicious banking APKs using static analysis, permission patterns, feature engineering, and LightGBM classification. | `Python` `Androguard` `LightGBM` `scikit-learn` |
-| **[Stock Price Predictor](https://github.com/Alok-Yadav25/Stock-prediction-using-LSTM)** | Forecasts market movement with an LSTM pipeline trained on historical and live market data. | `Python` `PyTorch` `LSTM` `Pandas` |
-
-## Technology I work with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,ts,postgres,supabase,docker,git,aws,vercel&perline=12" alt="Python, PyTorch, scikit-learn, FastAPI, Next.js, TypeScript, Postgres, Supabase, Docker, Git, AWS, and Vercel" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Alok-Yadav25?tab=repositories">Explore my work</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/AlokYadav2500">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:ay252003@gmail.com">Get in touch</a>
+</p>
 
 <br />
 
-```text
-data / text / code  ->  model  ->  API  ->  product  ->  measurable impact
-```
+### A little context
 
-## GitHub signal
+I build **AI-powered products from model to interface** — connecting machine learning, reliable APIs, and carefully designed experiences. My work spans code intelligence, observability, computer vision, and privacy tooling.
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alok-Yadav25&theme=tokyonight" alt="Alok's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alok-Yadav25&theme=tokyonight" alt="Alok's repositories by language" />
+Currently building **[Pulse](https://github.com/Alok-Yadav25/Pulse)** and **[DevPilot](https://github.com/Alok-Yadav25/DevPilot)**. Going deeper into LLM evaluation, RAG, and production AI systems. Open to **AI/ML engineering opportunities** and ambitious technical collaborations.
 
 <br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Yadav25&bg_color=07111F&color=94A3B8&line=22D3EE&point=A78BFA&area=true&area_color=0E7490&hide_border=true" alt="Alok's GitHub contribution activity graph" />
+### Selected work
 
-</div>
+Four projects at the intersection of useful intelligence and product craft. Each card opens the source.
 
-## Contribution flow
+<p align="center">
+  <a href="https://github.com/Alok-Yadav25/Pulse"><img src="./assets/profile/pulse.svg" width="420" alt="Pulse — website uptime, performance, and visitor analytics. React, TypeScript, FastAPI. Open source code." /></a>
+  <a href="https://github.com/Alok-Yadav25/DevPilot"><img src="./assets/profile/devpilot.svg" width="420" alt="DevPilot — AI-assisted Python debugging with test evidence and human patch review. Python, LangGraph, Groq. Open source code." /></a>
+  <br />
+  <a href="https://github.com/Alok-Yadav25/VEIL"><img src="./assets/profile/veil.svg" width="420" alt="VEIL — encrypted payloads concealed in images. Java, Spring Boot, React. Open source code." /></a>
+  <a href="https://github.com/Alok-Yadav25/Codelens"><img src="./assets/profile/codelens.svg" width="420" alt="CodeLens — model-assisted code reviews and contextual suggestions. PyTorch, CodeBERT, FastAPI. Open source code." /></a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://devpilot-alokyadav25.pages.dev">Try DevPilot ↗</a> &nbsp; · &nbsp;
+  <a href="https://veil-20l2.onrender.com">Explore VEIL ↗</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Alok-Yadav25?tab=repositories">All repositories ↗</a>
+</p>
+
+<details>
+  <summary><strong>More experiments & earlier work</strong></summary>
+
+  <br />
+
+  | Project | Exploration |
+  | :--- | :--- |
+  | [Suraksha Setu](https://github.com/Alok-Yadav25/Fake-bank-apk-detection) | Suspicious banking APK detection using static analysis and machine learning. |
+  | [Stock Price Predictor](https://github.com/Alok-Yadav25/Stock-prediction-using-LSTM) | Time-series forecasting with LSTMs and market data. |
+  | [Lane Detection](https://github.com/Alok-Yadav25/lane-detection-cv) | Computer vision for road lane identification in images and video. |
+  | [Stocky](https://github.com/Alok-Yadav25/Stocky) | A modern market intelligence dashboard for stocks, charts, and portfolios. |
+
+</details>
+
+<br />
+
+### Tools of the trade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Alok-Yadav25/Alok-Yadav25/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(max-width: 600px)" srcset="./assets/profile/toolkit-mobile.svg" />
+  <img src="./assets/profile/toolkit.svg" width="100%" alt="Intelligence: Python, PyTorch, scikit-learn, LLMs, RAG, computer vision. Product: React, Next.js, TypeScript, Tailwind CSS, Motion. Systems: FastAPI, Spring Boot, PostgreSQL, Docker, Git." />
 </picture>
 
 <br />
 
-<sub>The animation refreshes automatically every day.</sub>
+### Small steps, compounding
 
-</div>
+A year of building, rendered as an isometric skyline. Every block represents a day; its height reflects real contributions.
 
----
+<a href="https://github.com/Alok-Yadav25?tab=overview"><img src="./assets/profile/contributions.svg" width="100%" alt="Animated 3D contribution skyline generated from Alok's actual GitHub activity. Includes total contributions, active days, best day, and longest streak." /></a>
 
-<div align="center">
+<p align="center"><sub>Refreshed daily with GitHub Actions · Custom SVGs · Motion respects reduced-motion preferences</sub></p>
 
-**Building useful intelligence, one shipped system at a time.**
+<br />
 
-<a href="mailto:ay252003@gmail.com">Let's build something intelligent.</a>
+<a href="mailto:ay252003@gmail.com"><img src="./assets/profile/connect.svg" width="100%" alt="Let's build what comes next. Open to AI/ML opportunities, thoughtful products, and technical collaborations. Email ay252003@gmail.com." /></a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Alok-Yadav25&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
+<p align="center">
+  <a href="mailto:ay252003@gmail.com">ay252003@gmail.com</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/AlokYadav2500">Let's connect on LinkedIn ↗</a>
+</p>
