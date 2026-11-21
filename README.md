@@ -63,8 +63,8 @@ Active contributor to production machine learning libraries, developer tooling, 
 | :--- | :--- | :--- | :--- |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)** | ML / Core | Fixed non-numeric array attributes handling in `move_estimator_to` ([#35481](https://github.com/scikit-learn/scikit-learn/pull/35481)) | `Open` · CI Passing |
 | **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** | Algorithms / Math | Implemented Woodall numbers generation & primality testing ([#15777](https://github.com/TheAlgorithms/Python/pull/15777)) | `Open` · Tests Passing |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | AI Agents / LangGraph | Added LinkedIn to planner source capabilities for `how_to` intent ([#1545](https://github.com/mvanhorn/last30days-skill/pull/1545)) | `Open` · Greptile Reviewed |
-| **[JabRef/jabref](https://github.com/JabRef/jabref)** | Java / Tooling | Added syntax error warning dialog on bibliographic data import ([#17881](https://github.com/JabRef/jabref/pull/17881)) | `Open` · 72 Checks Passing |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | AI Agents / LangGraph | Added LinkedIn to planner source capabilities for `how_to` intent ([#1545](https://github.com/mvanhorn/last30days-skill/pull/1545)) | `Merged` 🎉 |
+| **[JabRef/jabref](https://github.com/JabRef/jabref)** | Java / Tooling | Added syntax error warning dialog on bibliographic data import ([#17881](https://github.com/JabRef/jabref/pull/17881)) | `Open` · All Checks Passing |
 | **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** | Web Curriculum | Curriculum typo fix & maintainer triage ([#71751](https://github.com/freeCodeCamp/freeCodeCamp/issues/71751), [#71752](https://github.com/freeCodeCamp/freeCodeCamp/pull/71752)) | `Triaged` |
 | **[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)** | React / Docs | Documented question numbering mismatch and duplicate entries ([#416](https://github.com/sudheerj/reactjs-interview-questions/issues/416)) | `Open` |
 
